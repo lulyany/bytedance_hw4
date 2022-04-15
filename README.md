@@ -1,6 +1,6 @@
 # Bytedance_hw4
 
-【介绍】
+**【介绍】**
 
 参考开源项目摸索了一下，实现自定义应用层协议
 
@@ -14,7 +14,8 @@
 **【使用方法】**
 
 1. 使用进入文件夹
-2. node server.js: 启动server
-3. node client.js: 启动client
+2. `node server.js`: 启动server
+3. `node client.js`: 启动client
 4. 根据提示，发送消息
 5. 在server上查看
+6. `control +c`退出
